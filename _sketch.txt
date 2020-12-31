@@ -1,0 +1,19 @@
+
+5)???
+
+6) Concatenar string
+7) token ou fields na string, a substring de corte são os caracteres delimitadores (confira na especificação)
+8) head andelse resto da lista, recursivamente
+9) 
+10) datatype planeta; um monte de if e else com os dados?
+11) valor + soma recursiva
+12) screenshot. Usando map
+13) Combinador: compor funções. Uma função soma outra quadrado 
+14) a) 1
+b) 1,3
+c) 3,1
+d) 3,2,1,4
+15)
+a) faltando o else?
+b) tipos diferentes. Para funcionar alguém deve ser explicitamente convertido
+c) Casamento de padrões é feito de cima para baixo
