@@ -1,0 +1,11 @@
+a) Falta o "else" na sintaxe do comando condicional 
+
+b) Estão sendo usados tipos diferentes no operador de multiplicação. Para 
+funcionar algum dos dois deve ser explicitamente convertido para o outro tipo.
+Em outras palavras, ambos devem ser inteiros ou ambos devem ser reais para que
+o comando funcione.
+
+c) Como o casamento de padrões é feito de cima para baixo, o caso descrito na
+linha de baixo nunca será utilizado já que o da linha de cima é mais geral. Além
+disso, por ser mais geral, ele já cobre o caso do de baixo, o que gera o erro
+de padrão redundante.

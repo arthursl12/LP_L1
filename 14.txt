@@ -1,0 +1,26 @@
+(Considerando os "+" de cima para baixo, começando de 1)
+a)
+i+r
+ 1
+
+b)
+i+r+i
+ 1
+r+i   
+ 3
+
+c) 
+i+(r+i)
+    3
+i+r
+ 3
+
+d) 
+i+i+r+(r+i)
+        3
+i+i+r+r
+ 2
+i+r+r
+ 1
+r+r
+ 4
