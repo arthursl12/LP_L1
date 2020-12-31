@@ -1,6 +1,3 @@
-8) head andelse resto da lista, recursivamente
-9) 
-10) datatype planeta; um monte de if e else com os dados?
 11) valor + soma recursiva
 12) screenshot. Usando map
 13) Combinador: compor funções. Uma função soma outra quadrado 
