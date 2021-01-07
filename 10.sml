@@ -8,5 +8,3 @@ fun planetAge (age, Mercurio) = ((age * 365) div 88) * 88
   | planetAge (age, Saturno) = ((age * 365) div 10760) * 10760
   | planetAge (age, Urano) = ((age * 365) div 30681) * 30681
   | planetAge (age, Netuno) = ((age * 365) div 60190) * 60190;
-
-planetAge(24, Jupiter);

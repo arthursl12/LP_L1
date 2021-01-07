@@ -11,20 +11,5 @@ fun pow (n,1) = n
     else
       (1 div n)*pow(1 div n,~e+1);
 
-pow(3,2);
-pow(2,~2);
-pow(~3,2);
-pow(~3,3);
-pow(~0,3);
-pow(~0,0);
-pow(~0,1);
-pow(0,~1);
-pow(~0,23);
-pow(0,1);
-pow(0,23);
-pow(1,0);
-pow(23,0);
-pow(~1,0);
-pow(~23,0);
 
 

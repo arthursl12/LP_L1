@@ -1,5 +1,0 @@
-12) screenshot. Usando map. Talvez...
-15)
-a) faltando o else?
-b) tipos diferentes. Para funcionar alguém deve ser explicitamente convertido
-c) Casamento de padrões é feito de cima para baixo
