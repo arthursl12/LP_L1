@@ -1,4 +1,4 @@
-(Considerando os "+" de cima para baixo, começando de 1)
+(Indexando os operadores + definidos de cima para baixo, começando de 1)
 a)
 i+r
  1

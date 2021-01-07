@@ -1,9 +1,3 @@
-(* 
-A inferência coloca "int list * int list → int list" ao invés de "'a list", 
-até porque não dá pra assumir overload de int para real (na soma) e a soma 
-não está definida para strings
-*)
-
 fun sumLists ([],[]) = []
   | sumLists (h1::xs1, h2::xs2) = (h1+h2)::sumLists(xs1,xs2);
 
